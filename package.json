@@ -2,9 +2,9 @@
   "name": "nodebirdsbackend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon app"
   },
   "repository": {
     "type": "git",
